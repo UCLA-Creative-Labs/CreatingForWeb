@@ -1,0 +1,25 @@
+body {
+
+	height: 100vh;
+	display: flex; // Flexbox!!
+	justify-content: flex-end; // This will align the content towards the bottom of the column
+	align-items: center; // This will horizontally center the children 
+	flex-direction: column;
+
+
+		.ball { // We use . to select by class name
+
+			height: 200px; // Defines the dimensions of our box in PIXELS
+			width: 200px;
+			background-color: red; // Colors in box
+			border-radius: 50%; // Makes our box a circle!
+
+		}
+		#bounce-button { // We use # to select by ID
+
+			width: 10em; // Makes our button wider in EM
+			margin-top: 2em; // Separates our ball from our button
+			margin-bottom: 4em;
+		}
+	
+}

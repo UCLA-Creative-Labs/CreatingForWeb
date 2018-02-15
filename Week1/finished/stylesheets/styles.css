@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: column; }
+  body .ball {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 50%; }
+  body #bounce-button {
+    width: 10em;
+    margin-top: 2em;
+    margin-bottom: 4em; }
+
+/*# sourceMappingURL=styles.css.map */
