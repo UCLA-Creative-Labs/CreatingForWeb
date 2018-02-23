@@ -12,7 +12,7 @@ Great resources you should check out
 
 [Please fill out the Week One feedback form here](https://goo.gl/forms/c7R7PI6NqGK3yR2M2)
 
-# Week One
+# Week Two
 Topics covered: Git, HTML, BOOTSTRAP, a bit of Flexbox
 
 Great resources you should check out
