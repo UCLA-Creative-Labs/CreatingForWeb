@@ -22,3 +22,14 @@ Great resources you should check out
 [Click here for the presentation](https://docs.google.com/presentation/d/17GtCqA4pCP5qmlLaCzVqhV_wXohzPBYIMYVSkV-OZgA/edit?usp=sharing)
 
 [Please fill out the Week Two feedback form here](https://goo.gl/forms/UkAkL8yp2u9XKFol1)
+
+# Week Three
+Topics covered: UI, more CSS
+
+Great resources you should check out
+  * http://www.awwwards.com/
+  * http://www.dailyui.co/ 
+
+[Click here for the presentation](https://docs.google.com/presentation/d/1fRcTYeCNzAtSUHidqDfHngHsY2oLmUduDpwaf-NHjeM/edit?usp=sharing)
+
+[Please fill out the Week Three feedback form here](https://goo.gl/forms/HWKNzAThqZxcHq0r1)
